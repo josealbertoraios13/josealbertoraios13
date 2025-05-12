@@ -16,14 +16,14 @@
 <h3>IDEs:</h3>
 
 <div>
-      <img src="images/IDEs/vscode.png" alt="C# Logo" width="50">
-      <img src="images/IDEs/pycharm.png" alt="C# Logo" width="50">
-      <img src="images/IDEs/eclipse.png" alt="C# Logo" width="50">
+      <img src="images/IDEs/vscode.png" alt="vscode Logo" width="50">
+      <img src="images/IDEs/pycharm.png" alt="pycharm Logo" width="50">
+      <img src="images/IDEs/eclipse.png" alt="eclipse Logo" width="50">
 </div>
 
 <h3>Outras tecnologias:</h3>
 
 <div>
-  <img src="images/other languages/html5.png" alt="C# Logo" width="50">
-  <img src="images/other languages/css3.png" alt="C# Logo" width="50">
+  <img src="images/other languages/html5.png" alt="html5 Logo" width="50">
+  <img src="images/other languages/css3.png" alt="css3 Logo" width="50">
 </div>
