@@ -11,7 +11,7 @@
   <img src="images/programmer languages/python.png" alt="Python Logo" width="50">
 </div>
 
-<h2>Aprendendo: </h2>
+<h3>Linguagens que estou aprendendo: </h3>
 
 <div>  
   <img src="images/programmer languages/java.png" alt="Java Logo" width="50">
