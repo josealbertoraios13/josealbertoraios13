@@ -16,6 +16,7 @@
 <h3>IDEs:</h3>
 
 <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" alt="VS Code"/> 
       <img src="images/IDEs/vscode.png" alt="vscode Logo" width="50">
       <img src="images/IDEs/pycharm.png" alt="pycharm Logo" width="50">
       <img src="images/IDEs/eclipse.png" alt="eclipse Logo" width="50">
