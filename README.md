@@ -8,7 +8,7 @@
 
 <div>
   <img src="images/programmer languages/csharp.png" alt="C# Logo" width="50">
-  <img src="images/programmer languages/python.png" alt="Python Logo" width="50">
+  <img src="images/programmer languages/cpp.png" alt="Python Logo" width="50">
 </div>
 
 <div>
