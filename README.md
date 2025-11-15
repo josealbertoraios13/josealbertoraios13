@@ -47,9 +47,11 @@
 <h3>FrameWorks:</h3>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="Windows Forms Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="Blazor Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET MAUI Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="WPF Logo" width="50">
+  <ul>
+    <li>Windows Forms (WinForms)</li>
+    <li>ASP.NET (Active Server Pages .NET)</li>
+    <li>Blazor (framework web da Microsoft para UIs interativas com C#)</li>
+    <li>.NET MAUI (.NET Multi-platform App UI)</li>
+    <li>WPF (Windows Presentation Foundation)</li>
+  </ul>
 </div>
