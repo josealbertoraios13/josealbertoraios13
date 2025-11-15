@@ -8,7 +8,8 @@
 
 <div>
   <img src="images/programmer languages/csharp.png" alt="C# Logo" width="50">
-  <img src="images/programmer languages/cpp.png" alt="Python Logo" width="50">
+  <img src="images/programmer languages/cpp.png" alt="C++ Logo" width="50">
+  <img src="images/programmer languages/java.png" alt="Java Logo" width="50">
 </div>
 
 <div>
@@ -16,11 +17,11 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<h3>Linguagens que estou aprendendo: </h3>
+<h3>Tenho um pouco de experiência: </h3>
 
 <div>  
-  <img src="images/programmer languages/java.png" alt="Java Logo" width="50">
   <img src="images/programmer languages/javascript.png" alt="JavaScript Logo" width="50">
+  <img src="images/programmer languages/python.png" alt="Python Logo" width="50">
 </div>
 
 <h3>IDEs:</h3>
