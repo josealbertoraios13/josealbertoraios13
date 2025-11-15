@@ -30,12 +30,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" alt="VS 2022"/> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode Logo" width="50">
       <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm Logo" width="50">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse Logo" width="50">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="clion Logo" width="50">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij Logo" width="50">
 </div>
 
 <h3>Outras tecnologias:</h3>
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 Logo" width="50">
 </div>
