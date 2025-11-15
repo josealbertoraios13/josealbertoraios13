@@ -43,3 +43,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 Logo" width="50">
 </div>
+
+<h3>FrameWorks:</h3>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="Windows Forms Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="Blazor Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET MAUI Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="WPF Logo" width="50">
+</div>
