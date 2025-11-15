@@ -7,9 +7,9 @@
 <h3>Linguagens de programação:</h3>
 
 <div>
-  <img src="images/programmer languages/csharp.png" alt="C# Logo" width="50">
-  <img src="images/programmer languages/cpp.png" alt="C++ Logo" width="50">
-  <img src="images/programmer languages/java.png" alt="Java Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50">
 </div>
 
 <div>
@@ -20,22 +20,22 @@
 <h3>Tenho um pouco de experiência: </h3>
 
 <div>  
-  <img src="images/programmer languages/javascript.png" alt="JavaScript Logo" width="50">
-  <img src="images/programmer languages/python.png" alt="Python Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50">
 </div>
 
 <h3>IDEs:</h3>
 
 <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" alt="VS 2022"/> 
-      <img src="images/IDEs/vscode.png" alt="vscode Logo" width="50">
-      <img src="images/IDEs/pycharm.png" alt="pycharm Logo" width="50">
-      <img src="images/IDEs/eclipse.png" alt="eclipse Logo" width="50">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode Logo" width="50">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm Logo" width="50">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse Logo" width="50">
 </div>
 
 <h3>Outras tecnologias:</h3>
 
 <div>
-  <img src="images/other languages/html5.png" alt="html5 Logo" width="50">
-  <img src="images/other languages/css3.png" alt="css3 Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 Logo" width="50">
 </div>
