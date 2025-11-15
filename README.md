@@ -22,6 +22,7 @@
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart Logo" width="50">
 </div>
 
 <h3>IDEs:</h3>
@@ -42,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 Logo" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity Logo" width="50">
 </div>
 
 <h3>FrameWorks:</h3>
