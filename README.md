@@ -12,9 +12,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50">
 </div>
 
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180em" src="https://ghstats.dev/api/top-langs?username=josealbertoraios13&layout=compact&theme=tokyonight&limit=12"/>
+  <img height="180em" src="https://ghstats.dev/api?username=josealbertoraios13&theme=tokyonight"/>
 </div>
 
 <h3>Tenho um pouco de experiência: </h3>
