@@ -13,8 +13,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://ghstats.dev/api/top-langs?username=josealbertoraios13&layout=compact&theme=tokyonight&limit=12"/>
-  <img height="180em" src="https://ghstats.dev/api?username=josealbertoraios13&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=josealbertoraios13&theme=dracula"/>
 </div>
 
 <h3>Tenho um pouco de experiência: </h3>
