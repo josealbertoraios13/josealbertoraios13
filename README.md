@@ -12,12 +12,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50">
 </div>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=20&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=josealbertoraios13&theme=dracula"/>
 </div>
 
