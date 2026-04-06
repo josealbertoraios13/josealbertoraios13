@@ -13,7 +13,7 @@
 </div>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-63ziymr38-josealbertoraios13s-projects.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="180em" src="github-readme-stats-i599r4nyi-josealbertoraios13s-projects.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=20&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-63ziymr38-josealbertoraios13s-projects.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
