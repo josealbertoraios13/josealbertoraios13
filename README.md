@@ -1,15 +1,24 @@
 <h1>José Alberto Martins Gomes da Silva</h1>
-<h3>Estudante e entusiasta de Ciência da Computação, apaixonado por tecnologias e motivado pelo aprendizado prático e constante desenvolvimento de habilidades.</h2>
+<h3>Estudante de Sistemas de Informação (UFRPE) e entusiasta de Ciência da Computação, focado em aprendizado prático e desenvolvimento de sistemas eficientes.</h3>
+
+<hr>
+
+<h2>🚀 Sobre mim</h2>
+<ul>
+  <li>Focado em aprender construindo projetos reais</li>
+  <li>Experiência com desenvolvimento desktop, web e jogos</li>
+  <li>Interesse em sistemas, gráficos e ferramentas de baixo nível</li>
+</ul>
 
 <hr>
 
 <h2>Experiências</h2>
-<h3>Linguagens de programação:</h3>
-
+<h3>Linguagens principais:</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
 </div>
 
 <div align="left">
@@ -23,10 +32,10 @@
 
 <h3>Tenho um pouco de experiência: </h3>
 
-<div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart Logo" width="50">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50">
 </div>
 
 <h3>IDEs:</h3>
@@ -49,14 +58,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity Logo" width="50">
 </div>
 
-<h3>FrameWorks:</h3>
-
-<div>
-  <ul>
-    <li>Windows Forms (WinForms)</li>
-    <li>ASP.NET (Active Server Pages .NET)</li>
-    <li>Blazor (framework web da Microsoft para UIs interativas com C#)</li>
-    <li>.NET MAUI (.NET Multi-platform App UI)</li>
-    <li>WPF (Windows Presentation Foundation)</li>
-  </ul>
-</div>
+<h2>🛠️ Frameworks e Tecnologias</h2>
+<ul>
+  <li>ASP.NET</li>
+  <li>Blazor</li>
+  <li>.NET MAUI</li>
+  <li>Windows Forms (WinForms)</li>
+  <li>WPF</li>
+  <li>Unity</li>
+  <li>OpenGL + SDL2 + ImGui + glm</li>
+</ul>
