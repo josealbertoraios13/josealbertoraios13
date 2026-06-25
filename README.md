@@ -29,10 +29,10 @@
 ## 💻 Linguagens principais
 
 <div align="left">
-  <img src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>
-  <img src="https://devicon-website.vercel.app/api/c/original.svg"></img>
-  <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
-  <img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="30"></img>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" width="30"></img>
+  <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="30"></img>
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" width="30"></img>
 </div>
 
 ## 📚 Alguma experiência
