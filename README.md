@@ -20,8 +20,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=donut&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=donut&theme=tokyonight" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=radical" height="300"/>
 </div>
 
 ---
