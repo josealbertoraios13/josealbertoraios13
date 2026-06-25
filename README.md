@@ -29,10 +29,10 @@
 ## 💻 Linguagens principais
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" title="C#"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" title="C"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
 </div>
 
 ## 📚 Alguma experiência
