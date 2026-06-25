@@ -15,6 +15,19 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=josealbertoraios13&theme=dracula"/>
+</div>
+
+---
+
 ## 💻 Linguagens principais
 
 <div align="left">
@@ -55,16 +68,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" title="Unity"/>
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&langs_count=20&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=josealbertoraios13&theme=dracula"/>
-</div>a
