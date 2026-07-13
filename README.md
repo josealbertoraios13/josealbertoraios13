@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Sistemas de Informação (UFRPE) · Entusiasta de Ciência da Computação<br>
-  Focado em aprendizado prático e desenvolvimento de sistemas eficientes.
+  Focado em aprendizado prático e desenvolvimento de sistemas eficientes. 
 </p>
 
 ---
