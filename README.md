@@ -20,8 +20,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-lime-gamma-19.vercel.app/api/top-langs/?username=josealbertoraios13&layout=donut&theme=tokyonight&langs_count=8" height="300" />
-  <img src="https://github-readme-stats-lime-gamma-19.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=radical" height="300"/>
+  <img
+    src="https://github-readme-stats-lime-gamma-19.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-lime-gamma-19.vercel.app/api/top-langs/?username=josealbertoraios13&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </div>
 
 ---
