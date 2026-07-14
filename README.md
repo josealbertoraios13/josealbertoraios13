@@ -23,11 +23,12 @@
   <img
     src="https://github-readme-stats-lime-gamma-19.vercel.app/api/top-langs/?username=josealbertoraios13&layout=donut&langs_count=12&count_private=true&theme=tokyonight&hide_border=true"
     height="180"
+    align="top"
   />
-
   <img
     src="https://github-readme-stats-lime-gamma-19.vercel.app/api?username=josealbertoraios13&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
+    align="top"
   />
 </div>
 
